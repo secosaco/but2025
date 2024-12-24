@@ -2307,10 +2307,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-24 15:28:07 +0000",
       "minecraft:nether_wastes": "2024-12-23 22:40:09 +0000",
+      "minecraft:soul_sand_valley": "2024-12-24 18:27:21 +0000",
       "minecraft:basalt_deltas": "2024-12-23 22:44:05 +0000",
       "minecraft:warped_forest": "2024-12-24 14:50:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -3038,6 +3039,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-24 18:26:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2024-12-24 18:20:28 +0000"
@@ -3065,6 +3072,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-24 17:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-24 18:27:35 +0000"
     },
     "done": true
   },
