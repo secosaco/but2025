@@ -218,3 +218,16 @@
 [19:12:02] [Server thread/INFO]: rafcat joined the game
 [19:17:17] [Server thread/INFO]: yerkoGm12[/127.143.125.30:57113] logged in with entity id 152385 at (2.469398741298945, 63.0, -235.7774255290067)
 [19:17:17] [Server thread/INFO]: yerkoGm12 joined the game
+[19:29:46] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
+[19:29:46] [Server thread/INFO]: yerkoGm12 left the game
+[19:29:48] [Server thread/INFO]: yerkoGm12[/127.143.125.30:47953] logged in with entity id 156106 at (-139.62978962349897, 63.0, -43.582297757619244)
+[19:29:48] [Server thread/INFO]: yerkoGm12 joined the game
+[19:29:52] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
+[19:29:52] [Server thread/INFO]: yerkoGm12 left the game
+[19:29:58] [Server thread/INFO]: yerkoGm12[/127.143.125.30:35609] logged in with entity id 156200 at (-139.62978962349897, 63.0, -43.582297757619244)
+[19:29:58] [Server thread/INFO]: yerkoGm12 joined the game
+[19:40:34] [Server thread/INFO]: rafcat lost connection: Disconnected
+[19:40:34] [Server thread/INFO]: rafcat left the game
+[19:40:42] [Server thread/INFO]: rafcat[/127.143.125.30:50589] logged in with entity id 161763 at (-5.145098518885108, 48.0, -241.5045760382901)
+[19:40:42] [Server thread/INFO]: rafcat joined the game
+[19:42:57] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-74, y=65, z=50} iz{x=-73, y=63, z=49}
