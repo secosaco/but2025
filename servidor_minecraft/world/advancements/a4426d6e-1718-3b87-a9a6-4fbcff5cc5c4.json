@@ -3027,9 +3027,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "crying_obsidian": "2024-12-24 18:22:30 +0000"
+      "enchanted_item": "2024-12-24 17:40:22 +0000"
     },
     "done": true
   },
@@ -3039,21 +3039,15 @@
     },
     "done": true
   },
-  "minecraft:nether/distract_piglin": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "distract_piglin": "2024-12-24 18:26:00 +0000"
+      "has_smooth_stone": "2024-12-24 17:45:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_bricks": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
-      "has_nether_brick": "2024-12-24 18:20:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2024-12-24 18:22:30 +0000"
+      "has_smooth_stone": "2024-12-24 17:45:04 +0000"
     },
     "done": true
   },
@@ -3069,27 +3063,33 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
-      "enchanted_item": "2024-12-24 17:40:22 +0000"
+      "has_nether_brick": "2024-12-24 18:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-24 18:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-24 18:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-24 18:26:00 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2024-12-24 18:27:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-24 17:45:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-24 17:45:04 +0000"
     },
     "done": true
   },
