@@ -97,3 +97,8 @@
 [14:52:24] [Server thread/INFO]: hifese[/127.143.125.30:40731] logged in with entity id 43604 at (1138.6033371111112, 62.75101421628559, 246.76033794550625)
 [14:52:24] [Server thread/INFO]: hifese joined the game
 [14:52:26] [Server thread/WARN]: hifese moved too quickly! 0.0,-10.80652611000901,0.0
+[15:02:50] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-170, y=67, z=36} iz{x=-170, y=65, z=36}
+[15:02:50] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-169, y=66, z=34} iz{x=-170, y=64, z=34}
+[15:02:50] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-169, y=66, z=34} iz{x=-170, y=64, z=34}
+[15:02:50] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-168, y=66, z=34} iz{x=-170, y=64, z=34}
+[15:02:50] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-168, y=66, z=34} iz{x=-170, y=64, z=34}
