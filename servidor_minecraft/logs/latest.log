@@ -1,165 +1,41 @@
-[19:18:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:18:30] [ServerMain/INFO]: Loaded 1175 recipes
-[19:18:30] [ServerMain/INFO]: Loaded 1276 advancements
-[19:18:31] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[19:18:31] [Server thread/INFO]: Loading properties
-[19:18:31] [Server thread/INFO]: Default game type: SURVIVAL
-[19:18:31] [Server thread/INFO]: Generating keypair
-[19:18:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:18:32] [Server thread/INFO]: Using epoll channel type
-[19:18:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:18:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:18:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:18:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:18:32] [Server thread/INFO]: Preparing level "world"
-[19:18:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:18:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:18:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:18:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:18:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:18:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:18:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:18:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:18:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:18:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:18:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:18:45] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[19:18:46] [Worker-Main-1/INFO]: Preparing spawn area: 71%
-[19:18:46] [Server thread/INFO]: Time elapsed: 5570 ms
-[19:18:46] [Server thread/INFO]: Done (13.891s)! For help, type "help"
-[19:19:07] [Server thread/INFO]: rafcat[/127.143.125.30:34521] logged in with entity id 7 at (-19.93905257214616, 65.0, -231.60106700213615)
-[19:19:07] [Server thread/INFO]: rafcat joined the game
-[19:19:37] [Server thread/INFO]: hifese[/127.143.125.30:54869] logged in with entity id 258 at (-23.99913694024866, 65.0, -162.45705178352398)
-[19:19:37] [Server thread/INFO]: hifese joined the game
-[19:23:12] [Server thread/INFO]: yerkoGm12[/127.143.125.30:45071] logged in with entity id 2938 at (-752.128765138826, 67.0, 63.30000001192093)
-[19:23:12] [Server thread/INFO]: yerkoGm12 joined the game
-[19:25:15] [Server thread/INFO]: rafcat has made the advancement [Sweet Dreams]
-[19:28:33] [Server thread/INFO]: rafcat was impaled by Drowned
-[19:36:28] [Server thread/INFO]: rafcat lost connection: Disconnected
-[19:36:28] [Server thread/INFO]: rafcat left the game
-[19:36:36] [Server thread/INFO]: rafcat[/127.143.125.30:45473] logged in with entity id 14632 at (-25.71598601921048, 63.0, -237.825321812259)
-[19:36:36] [Server thread/INFO]: rafcat joined the game
-[19:37:30] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-77, y=68, z=87} iz{x=-76, y=66, z=86}
-[19:37:30] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-77, y=68, z=87} iz{x=-76, y=66, z=86}
-[19:37:30] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-77, y=68, z=87} iz{x=-76, y=66, z=86}
-[19:38:12] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-740, y=68, z=87} iz{x=-741, y=67, z=87}
-[19:38:12] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-740, y=68, z=87} iz{x=-741, y=67, z=87}
-[19:38:12] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-740, y=68, z=87} iz{x=-741, y=67, z=87}
-[19:38:14] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-738, y=68, z=83} iz{x=-738, y=67, z=82}
-[19:38:15] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-735, y=67, z=90} iz{x=-737, y=66, z=92}
-[19:38:15] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-734, y=66, z=92} iz{x=-735, y=65, z=93}
-[19:38:16] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-734, y=66, z=92} iz{x=-735, y=65, z=93}
-[19:38:17] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-737, y=67, z=94} iz{x=-737, y=65, z=94}
-[19:38:19] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-740, y=68, z=92} iz{x=-741, y=67, z=92}
-[19:44:03] [Server thread/INFO]: yerkoGm12 has made the advancement [Ice Bucket Challenge]
-[19:48:14] [Server thread/INFO]: rafcat lost connection: Disconnected
-[19:48:14] [Server thread/INFO]: rafcat left the game
-[19:48:21] [Server thread/INFO]: rafcat[/127.143.125.30:60871] logged in with entity id 20643 at (-26.485223794959353, 63.0, -238.04651737809667)
-[19:48:21] [Server thread/INFO]: rafcat joined the game
-[19:54:57] [Server thread/INFO]: rafcat has made the advancement [Monster Hunter]
-[19:59:19] [Server thread/INFO]: rafcat lost connection: Disconnected
-[19:59:19] [Server thread/INFO]: rafcat left the game
-[19:59:28] [Server thread/INFO]: rafcat[/127.143.125.30:56685] logged in with entity id 27127 at (-42.415775634959296, 0.0, -390.3650923927834)
-[19:59:28] [Server thread/INFO]: rafcat joined the game
-[19:59:31] [Server thread/INFO]: rafcat lost connection: Disconnected
-[19:59:31] [Server thread/INFO]: rafcat left the game
-[19:59:46] [Server thread/INFO]: rafcat[/127.143.125.30:48491] logged in with entity id 27374 at (-42.415775634959296, 0.0, -390.3650923927834)
-[19:59:46] [Server thread/INFO]: rafcat joined the game
-[20:10:28] [Server thread/INFO]: rafcat lost connection: Disconnected
-[20:10:28] [Server thread/INFO]: rafcat left the game
-[20:10:50] [Server thread/INFO]: rafcat[/127.143.125.30:56595] logged in with entity id 33435 at (-24.90158605335792, 63.0, -238.35444166213506)
-[20:10:50] [Server thread/INFO]: rafcat joined the game
-[20:17:48] [Server thread/INFO]: rafcat has made the advancement [Not Today, Thank You]
-[20:20:01] [Server thread/INFO]: rafcat was shot by Skeleton
-[20:22:00] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
-[20:22:00] [Server thread/INFO]: yerkoGm12 left the game
-[20:23:16] [Server thread/INFO]: rafcat lost connection: Disconnected
-[20:23:16] [Server thread/INFO]: rafcat left the game
-[20:23:31] [Server thread/INFO]: yerkoGm12[/127.143.125.30:52755] logged in with entity id 40891 at (-684.2572451408452, 65.0, 106.8201094570074)
-[20:23:31] [Server thread/INFO]: yerkoGm12 joined the game
-[20:23:36] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
-[20:23:36] [Server thread/INFO]: yerkoGm12 left the game
-[20:23:41] [Server thread/INFO]: yerkoGm12[/127.143.125.30:33651] logged in with entity id 41240 at (-693.6244356485051, 65.0, 105.63362905957084)
-[20:23:41] [Server thread/INFO]: yerkoGm12 joined the game
-[20:23:43] [Server thread/INFO]: rafcat[/127.143.125.30:33345] logged in with entity id 41558 at (12.580503473471904, -16.0, -467.56336382819455)
-[20:23:43] [Server thread/INFO]: rafcat joined the game
-[20:34:26] [Server thread/INFO]: rafcat lost connection: Disconnected
-[20:34:26] [Server thread/INFO]: rafcat left the game
-[20:34:35] [Server thread/INFO]: rafcat[/127.143.125.30:56003] logged in with entity id 47799 at (44.10859111888094, -26.0, -473.827274105809)
-[20:34:35] [Server thread/INFO]: rafcat joined the game
-[20:35:13] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
-[20:35:13] [Server thread/INFO]: yerkoGm12 left the game
-[20:35:17] [Server thread/INFO]: rafcat lost connection: Disconnected
-[20:35:17] [Server thread/INFO]: rafcat left the game
-[20:35:26] [Server thread/INFO]: yerkoGm12[/127.143.125.30:39919] logged in with entity id 48279 at (-691.3695274220554, 69.0, 68.85961923839426)
-[20:35:26] [Server thread/INFO]: yerkoGm12 joined the game
-[20:35:37] [Server thread/INFO]: rafcat[/127.143.125.30:52241] logged in with entity id 48631 at (95.69999998807907, -16.0, -479.74759085437137)
-[20:35:37] [Server thread/INFO]: rafcat joined the game
-[20:36:35] [Server thread/INFO]: rafcat has made the advancement [Ice Bucket Challenge]
-[20:39:23] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
-[20:39:23] [Server thread/INFO]: yerkoGm12 left the game
-[20:40:44] [Server thread/INFO]: rafcat lost connection: Disconnected
-[20:40:44] [Server thread/INFO]: rafcat left the game
-[20:40:49] [Server thread/INFO]: rafcat[/127.143.125.30:56775] logged in with entity id 51132 at (34.76853933682606, -23.0, -473.69999998807907)
-[20:40:49] [Server thread/INFO]: rafcat joined the game
-[20:42:49] [Server thread/INFO]: hifese has made the advancement [Hot Stuff]
-[20:48:18] [Server thread/INFO]: rafcat lost connection: Disconnected
-[20:48:18] [Server thread/INFO]: rafcat left the game
-[20:48:28] [Server thread/INFO]: rafcat[/127.143.125.30:35777] logged in with entity id 53433 at (102.69999998807907, -25.0, -545.9137151397508)
-[20:48:28] [Server thread/INFO]: rafcat joined the game
-[20:54:43] [Server thread/INFO]: rafcat lost connection: Timed out
-[20:54:43] [Server thread/INFO]: rafcat left the game
-[20:55:04] [Server thread/INFO]: rafcat[/127.143.125.30:34473] logged in with entity id 55833 at (-20.792436407523706, 63.0, -237.15499047440227)
-[20:55:05] [Server thread/INFO]: rafcat joined the game
-[20:57:28] [Server thread/INFO]: rafcat lost connection: Disconnected
-[20:57:28] [Server thread/INFO]: rafcat left the game
-[21:28:38] [Server thread/INFO]: rafcat[/127.143.125.30:58303] logged in with entity id 59527 at (-24.316132151620526, 63.0, -236.82637223068326)
-[21:28:38] [Server thread/INFO]: rafcat joined the game
-[21:28:56] [Server thread/INFO]: rafcat lost connection: Disconnected
-[21:28:56] [Server thread/INFO]: rafcat left the game
-[22:06:29] [Server thread/INFO]: The time is 423733
-[22:07:27] [Server thread/INFO]: rafcat[/127.143.125.30:52193] logged in with entity id 64169 at (-26.620439450863746, 64.875, -236.61695046324078)
-[22:07:27] [Server thread/INFO]: rafcat joined the game
-[22:10:54] [Server thread/INFO]: rafcat has made the advancement [Cover Me with Diamonds]
-[22:11:40] [Server thread/INFO]: hifese has made the advancement [A Terrible Fortress]
-[22:13:48] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=118, y=60, z=-149} iz{x=119, y=59, z=-150}
-[22:19:01] [Server thread/INFO]: hifese has made the advancement [Into Fire]
-[22:19:42] [Server thread/INFO]: rafcat lost connection: Disconnected
-[22:19:42] [Server thread/INFO]: rafcat left the game
-[22:20:08] [Server thread/INFO]: yerkoGm12[/127.143.125.30:51181] logged in with entity id 68799 at (-693.0416079743405, 65.0, 93.48731277164443)
-[22:20:08] [Server thread/INFO]: yerkoGm12 joined the game
-[22:21:54] [Server thread/INFO]: rafcat[/127.143.125.30:55997] logged in with entity id 69779 at (-10.394286353859243, 62.0, -260.0211812641139)
-[22:21:54] [Server thread/INFO]: rafcat joined the game
-[22:28:53] [Server thread/INFO]: hifese was burned to a crisp while fighting Blaze
-[22:29:50] [Server thread/INFO]: [Not Secure] <hifese> 274 -167
-[22:30:51] [Server thread/INFO]: hifese burned to death
-[22:33:00] [Server thread/INFO]: hifese was burned to a crisp while fighting Blaze
-[22:33:45] [Server thread/INFO]: hifese tried to swim in lava
-[22:34:27] [Server thread/INFO]: [Not Secure] <hifese> 274 -194
-[22:36:09] [Server thread/INFO]: rafcat lost connection: Disconnected
-[22:36:09] [Server thread/INFO]: rafcat left the game
-[22:36:10] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
-[22:36:10] [Server thread/INFO]: yerkoGm12 left the game
-[22:36:14] [Server thread/INFO]: yerkoGm12[/127.143.125.30:47567] logged in with entity id 78234 at (-531.6371212433301, 63.0, 53.29066187294464)
-[22:36:14] [Server thread/INFO]: yerkoGm12 joined the game
-[22:36:19] [Server thread/INFO]: rafcat[/127.143.125.30:44063] logged in with entity id 78576 at (7.447566313618379, 62.005864247221034, -221.89595684476126)
-[22:36:19] [Server thread/INFO]: rafcat joined the game
-[22:36:44] [Server thread/INFO]: [Not Secure] <hifese> 274 -194
-[22:38:41] [Server thread/INFO]: [Not Secure] <hifese> 274 -194 NETHER XD
-[22:40:07] [Server thread/INFO]: yerkoGm12 has made the advancement [We Need to Go Deeper]
-[22:40:09] [Server thread/INFO]: rafcat has made the advancement [We Need to Go Deeper]
-[22:41:01] [Server thread/INFO]: yerkoGm12 has made the advancement [A Terrible Fortress]
-[22:41:04] [Server thread/INFO]: rafcat has made the advancement [A Terrible Fortress]
-[22:41:17] [Server thread/INFO]: rafcat lost connection: Disconnected
-[22:41:17] [Server thread/INFO]: rafcat left the game
-[22:41:25] [Server thread/INFO]: rafcat[/127.143.125.30:58207] logged in with entity id 81392 at (120.4246502306186, 60.0, -129.2579294010157)
-[22:41:25] [Server thread/INFO]: rafcat joined the game
-[22:45:16] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=263, y=53, z=-118} iz{x=263, y=52, z=-117}
-[22:45:30] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
-[22:45:30] [Server thread/INFO]: yerkoGm12 left the game
-[22:46:37] [Server thread/INFO]: yerkoGm12[/127.143.125.30:58603] logged in with entity id 82089 at (266.8313655515026, 60.7967356006687, -175.66315089026352)
-[22:46:37] [Server thread/INFO]: yerkoGm12 joined the game
-[22:46:51] [Server thread/INFO]: yerkoGm12 has made the advancement [Into Fire]
-[22:48:02] [Server thread/INFO]: yerkoGm12 was slain by Wither Skeleton
-[22:48:44] [Server thread/INFO]: [Not Secure] <hifese> 233 -105
-[22:50:52] [Server thread/INFO]: rafcat has made the advancement [Into Fire]
+[13:32:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:32:25] [ServerMain/INFO]: Loaded 1175 recipes
+[13:32:25] [ServerMain/INFO]: Loaded 1276 advancements
+[13:32:26] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[13:32:26] [Server thread/INFO]: Loading properties
+[13:32:26] [Server thread/INFO]: Default game type: SURVIVAL
+[13:32:26] [Server thread/INFO]: Generating keypair
+[13:32:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:32:26] [Server thread/INFO]: Using epoll channel type
+[13:32:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:32:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:32:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:32:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:32:26] [Server thread/INFO]: Preparing level "world"
+[13:32:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:32:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:46] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[13:32:46] [Server thread/INFO]: Time elapsed: 7123 ms
+[13:32:46] [Server thread/INFO]: Done (20.061s)! For help, type "help"
+[13:34:00] [Server thread/INFO]: rafcat[/127.143.125.30:50533] logged in with entity id 10 at (-76.32675324777031, 66.0, 82.71117727190031)
+[13:34:00] [Server thread/INFO]: rafcat joined the game
+[13:36:58] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-89, y=68, z=88} iz{x=-90, y=66, z=88}
+[13:36:59] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-90, y=68, z=89} iz{x=-91, y=66, z=88}
+[13:36:59] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-90, y=68, z=89} iz{x=-91, y=66, z=88}
+[13:39:00] [Server thread/INFO]: hifese[/127.143.125.30:59561] logged in with entity id 1231 at (-76.28157449011562, 67.0, 92.61341648535543)
+[13:39:00] [Server thread/INFO]: hifese joined the game
+[13:41:01] [Server thread/INFO]: hifese lost connection: Disconnected
+[13:41:01] [Server thread/INFO]: hifese left the game
