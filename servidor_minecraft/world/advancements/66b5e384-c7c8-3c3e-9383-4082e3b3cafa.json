@@ -411,7 +411,8 @@
       "cooked_porkchop": "2024-12-23 15:57:32 +0000",
       "bread": "2024-12-23 16:08:29 +0000",
       "cooked_mutton": "2024-12-23 15:52:45 +0000",
-      "beef": "2024-12-23 16:06:49 +0000"
+      "beef": "2024-12-23 16:06:49 +0000",
+      "carrot": "2024-12-24 13:58:57 +0000"
     },
     "done": false
   },
@@ -1772,24 +1773,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2024-12-23 23:01:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_horse_armor": "2024-12-23 22:47:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_horse_armor": "2024-12-23 22:47:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-23 22:46:51 +0000"
@@ -1805,6 +1788,24 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-12-23 22:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-23 22:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-23 22:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-12-23 23:01:22 +0000"
     },
     "done": true
   },
