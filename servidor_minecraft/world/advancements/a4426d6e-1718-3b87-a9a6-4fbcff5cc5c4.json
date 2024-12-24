@@ -1810,6 +1810,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-23 20:17:53 +0000",
+      "minecraft:enderman": "2024-12-24 14:52:34 +0000",
       "minecraft:spider": "2024-12-23 20:17:42 +0000",
       "minecraft:wither_skeleton": "2024-12-23 22:42:22 +0000",
       "minecraft:zombie": "2024-12-23 19:54:57 +0000",
@@ -2294,7 +2295,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2024-12-23 22:40:09 +0000",
-      "minecraft:basalt_deltas": "2024-12-23 22:44:05 +0000"
+      "minecraft:basalt_deltas": "2024-12-23 22:44:05 +0000",
+      "minecraft:warped_forest": "2024-12-24 14:50:36 +0000"
     },
     "done": false
   },
@@ -2609,6 +2611,18 @@
       "minecraft:woods": "2024-12-24 14:17:14 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-12-24 14:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-24 14:50:53 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3839
 }
