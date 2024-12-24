@@ -414,6 +414,7 @@
       "bread": "2024-12-23 16:08:29 +0000",
       "cooked_mutton": "2024-12-23 15:52:45 +0000",
       "beef": "2024-12-23 16:06:49 +0000",
+      "baked_potato": "2024-12-24 19:43:46 +0000",
       "porkchop": "2024-12-24 14:12:55 +0000",
       "carrot": "2024-12-24 13:58:57 +0000"
     },
@@ -2101,6 +2102,24 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-12-24 17:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-24 19:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-24 19:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-24 19:54:24 +0000"
     },
     "done": true
   },
