@@ -14,8 +14,10 @@
       "minecraft:forest": "2024-12-23 15:43:38 +0000",
       "minecraft:taiga": "2024-12-23 17:19:05 +0000",
       "minecraft:river": "2024-12-23 15:47:22 +0000",
-      "minecraft:swamp": "2024-12-23 17:07:39 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-24 14:15:38 +0000",
       "minecraft:lush_caves": "2024-12-23 17:24:26 +0000",
+      "minecraft:ocean": "2024-12-24 14:22:37 +0000",
+      "minecraft:swamp": "2024-12-23 17:07:39 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-23 17:10:01 +0000",
       "minecraft:savanna": "2024-12-23 15:49:08 +0000",
       "minecraft:plains": "2024-12-23 15:47:30 +0000"
@@ -412,6 +414,7 @@
       "bread": "2024-12-23 16:08:29 +0000",
       "cooked_mutton": "2024-12-23 15:52:45 +0000",
       "beef": "2024-12-23 16:06:49 +0000",
+      "porkchop": "2024-12-24 14:12:55 +0000",
       "carrot": "2024-12-24 13:58:57 +0000"
     },
     "done": false
@@ -1806,6 +1809,18 @@
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2024-12-23 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-24 14:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-24 14:22:09 +0000"
     },
     "done": true
   },
