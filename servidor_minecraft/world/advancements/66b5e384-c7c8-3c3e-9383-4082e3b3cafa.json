@@ -13,6 +13,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-23 17:51:54 +0000",
       "minecraft:forest": "2024-12-23 15:43:38 +0000",
       "minecraft:taiga": "2024-12-23 17:19:05 +0000",
+      "minecraft:sparse_jungle": "2024-12-27 21:31:50 +0000",
       "minecraft:river": "2024-12-23 15:47:22 +0000",
       "minecraft:lukewarm_ocean": "2024-12-24 14:15:38 +0000",
       "minecraft:lush_caves": "2024-12-23 17:24:26 +0000",
@@ -2204,9 +2205,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-27 21:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-27 21:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-27 21:34:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-27 21:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-27 21:26:20 +0000"
     },
     "done": true
   },
@@ -2237,6 +2262,24 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-27 21:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-27 21:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-27 21:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-27 21:34:32 +0000"
     },
     "done": true
   },
