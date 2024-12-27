@@ -19,6 +19,7 @@
       "minecraft:old_growth_birch_forest": "2024-12-27 20:52:05 +0000",
       "minecraft:ocean": "2024-12-24 14:22:37 +0000",
       "minecraft:swamp": "2024-12-23 17:07:39 +0000",
+      "minecraft:birch_forest": "2024-12-27 21:10:33 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-23 17:10:01 +0000",
       "minecraft:savanna": "2024-12-23 15:49:08 +0000",
       "minecraft:plains": "2024-12-23 15:47:30 +0000"
@@ -2182,6 +2183,60 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-27 20:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-27 21:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-27 21:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-27 21:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-27 21:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-27 21:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-27 21:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-27 21:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-27 21:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-27 21:14:53 +0000"
     },
     "done": true
   },
