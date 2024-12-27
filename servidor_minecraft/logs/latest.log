@@ -93,3 +93,9 @@
 [23:08:36] [Server thread/INFO]: yerkoGm12 left the game
 [23:08:40] [Server thread/INFO]: yerkoGm12[/127.143.125.30:52213] logged in with entity id 91403 at (-154.22348579359786, 67.0, 23.451899597349993)
 [23:08:40] [Server thread/INFO]: yerkoGm12 joined the game
+[23:13:43] [Server thread/INFO]: The time is 1243592
+[23:17:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=240, y=69, z=-48} iz{x=239, y=68, z=-48}
+[23:21:50] [Server thread/INFO]: rafcat lost connection: Disconnected
+[23:21:50] [Server thread/INFO]: rafcat left the game
+[23:32:25] [Server thread/INFO]: rafcat[/127.143.125.30:50463] logged in with entity id 102044 at (-6.376215975982596, 49.0, -243.2043690430188)
+[23:32:25] [Server thread/INFO]: rafcat joined the game
