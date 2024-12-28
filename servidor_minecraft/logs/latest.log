@@ -1,6 +1,33 @@
-[00:04:30] [Server thread/INFO]: yerkoGm12 lost connection: Disconnected
-[00:04:30] [Server thread/INFO]: yerkoGm12 left the game
-[00:04:54] [Server thread/INFO]: rafcat lost connection: Disconnected
-[00:04:54] [Server thread/INFO]: rafcat left the game
-[00:07:08] [Server thread/INFO]: hifese lost connection: Disconnected
-[00:07:08] [Server thread/INFO]: hifese left the game
+[21:48:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:48:52] [ServerMain/INFO]: Loaded 1175 recipes
+[21:48:53] [ServerMain/INFO]: Loaded 1276 advancements
+[21:48:54] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[21:48:54] [Server thread/INFO]: Loading properties
+[21:48:54] [Server thread/INFO]: Default game type: SURVIVAL
+[21:48:54] [Server thread/INFO]: Generating keypair
+[21:48:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:48:54] [Server thread/INFO]: Using epoll channel type
+[21:48:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:48:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:48:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:48:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:48:54] [Server thread/INFO]: Preparing level "world"
+[21:49:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:49:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:10] [Server thread/INFO]: Time elapsed: 6125 ms
+[21:49:10] [Server thread/INFO]: Done (15.606s)! For help, type "help"
+[21:52:23] [Server thread/INFO]: rafcat[/127.171.197.17:41289] logged in with entity id 5 at (-13.248189110393142, 48.0, -251.6646661035238)
+[21:52:23] [Server thread/INFO]: rafcat joined the game
+[21:54:34] [Server thread/INFO]: yerkoGm12[/127.171.197.17:60173] logged in with entity id 505 at (-155.05012871610026, 69.57969854367613, 51.81391017948335)
+[21:54:34] [Server thread/INFO]: yerkoGm12 joined the game
