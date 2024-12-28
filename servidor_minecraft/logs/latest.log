@@ -36,3 +36,11 @@
 [21:58:50] [Server thread/INFO]: rafcat[/127.171.197.17:50703] logged in with entity id 2204 at (-20.17829899264901, 49.0, -240.00723000647136)
 [21:58:50] [Server thread/INFO]: rafcat joined the game
 [22:07:15] [Server thread/INFO]: yerkoGm12 burned to death
+[22:19:48] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-16, y=50, z=-236} iz{x=-16, y=49, z=-235}
+[22:19:48] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-16, y=50, z=-236} iz{x=-16, y=49, z=-235}
+[22:19:48] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-16, y=50, z=-236} iz{x=-16, y=49, z=-235}
+[22:21:05] [Server thread/INFO]: rafcat lost connection: Disconnected
+[22:21:05] [Server thread/INFO]: rafcat left the game
+[22:21:30] [Server thread/INFO]: rafcat[/127.171.197.17:49749] logged in with entity id 12771 at (-24.083654253578857, 49.0, -254.49303038654156)
+[22:21:30] [Server thread/INFO]: rafcat joined the game
+[22:28:14] [Server thread/INFO]: yerkoGm12 has made the advancement [Ol' Betsy]
